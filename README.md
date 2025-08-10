@@ -32,7 +32,7 @@ Media\Factory IO\Simulation video.mp4
 2. Open the scene file `SRC\Factory IO\Sorting by Height (Basic).factoryio` in **Factory I/O**.
 3. In Factory I/O, set the Driver to **PLC SIM** and **S7-1200**.
 4. Download the program to the PLC and start the PLC and HMI simulation.
-5.Login to HMI with this username(admin) and password(123456).
+5. 5.Login to HMI with this username(admin) and password(123456).
 6.Reset all alarms and start the machine.
 
 ---
